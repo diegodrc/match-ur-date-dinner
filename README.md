@@ -1,6 +1,6 @@
-# match ur date - dinner
+# match ur date - it's dinner time
 
-![logo](https://i.imgur.com/5yO5wIS.png)
+![logo](https://i.imgur.com/iP63ee9.png)
 
 Match ur date é a plataforma mais adequada para combinar o date ideal com o seu parceiro, evitando assim horas **desperdiçadas** para decidir qual o melhor restaurante para ir. Com o nosso aplicativo, você facilitará a tomada de decisões conjunta e aproveitará melhor o tempo com seu amor.
 
