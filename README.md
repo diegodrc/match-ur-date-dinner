@@ -8,8 +8,9 @@ Match ur date é a plataforma mais adequada para combinar o date ideal com o seu
 
 - Daniel Barreto Torres - Desenvolvedor Full-Stack
 - Diego Della Rocca de Camargos - Desenvolvedor Full-Stack
+- Joao Paulo Mantini Veras - Desenvolvedor Full-Stack
 - Marco Aurelio da Silva - Desenvolvedor Full-Stack
-- Livre
+- Victor Araujo Sander Silva - Desenvolvedor Full-Stack
 
 ## Funcionalidades
 
